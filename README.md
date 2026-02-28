@@ -38,5 +38,16 @@ Sigue estos pasos para poner en marcha el proyecto en tu computadora:
 - [ ] Reportes mensuales.
 - [ ] Gráficos de consumo.
 
+EJECUCIÓN
 
 <img width="1450" height="814" alt="image" src="https://github.com/user-attachments/assets/6f6c64da-8bac-4042-a695-4d8b5a8c5326" />
+
+
+Creación de PDF
+
+
+<img width="916" height="510" alt="image" src="https://github.com/user-attachments/assets/0ee5419c-98ab-4dd9-a7e9-d072aedbbe89" />
+
+
+<img width="826" height="569" alt="image" src="https://github.com/user-attachments/assets/0926cca8-af26-4961-a680-f538a8e2e088" />
+
